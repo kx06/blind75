@@ -1,3 +1,8 @@
+# Elegant non in place solution :
+# matrix = list(map(list, zip(*matrix[::-1])))
+#
+
+
 class Solution:
     def rotate(self, matrix: List[List[int]]) -> None:
         matrix_length = len(matrix)
