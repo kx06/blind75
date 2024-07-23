@@ -9,7 +9,6 @@ class Solution:
         end = 0
         min_len = float("inf")
         start_index = 0
-        # UPVOTE !
         for char in t:
             map[ord(char)] += 1
 
