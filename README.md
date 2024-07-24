@@ -1,6 +1,8 @@
+# Leetcode Blind75 Solutions
+
 Written mostly in C and Python, this repo aims to compile all the solutions written by me for the Blind75.
 
-Most of these solutions are optimal and satisfy the required Time and Space Complexities. 
+Most of these solutions are optimal and satisfy the required Time and Space Complexities.
 
 ### ToDo
 
